@@ -21,7 +21,7 @@ Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular,
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<a href=""> <img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" /> </a>
+<a href=""> <img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat"/> </a>
 
 <img alt=”Angular” src=”https://img.shields.io/badge/Angular-61DAFB?logo=react&logoColor=white&style=flat" />
 
