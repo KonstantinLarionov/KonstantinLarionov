@@ -20,7 +20,9 @@ Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular,
 - **Continuous Learning:** Staying updated with the latest trends and best practices in web development.
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## Skills and Experience:
 
+<p>
 [<img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">]
 
 <img alt=”Angular” src=”https://img.shields.io/badge/Angular-61DAFB?logo=react&logoColor=white&style=flat" />
@@ -38,3 +40,4 @@ Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular,
 <img alt=”PostgreSQL” src=”https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
 
 <img alt=”MySQL” src=”https://img.shields.io/badge/MySQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+</p>
