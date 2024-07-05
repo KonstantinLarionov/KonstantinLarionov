@@ -42,4 +42,6 @@ Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular,
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white&style=flat" />
 
 <img alt="WPF" src="https://img.shields.io/badge/WPF-4169E1?logo=wpf&logoColor=white&style=flat" />
+
+<img alt="ASP NET" src="https://img.shields.io/badge/ASPNET-4169E1?logo=aspnet&logoColor=white&style=flat" />
 </p>
