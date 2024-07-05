@@ -18,3 +18,25 @@ Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular,
 - **Desktop Application Development:** Creating efficient and user-friendly desktop solutions.
 - **Code Quality:** Writing clean, maintainable, and well-documented code.
 - **Continuous Learning:** Staying updated with the latest trends and best practices in web development.
+
+<p>
+
+<img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+
+<img alt=”Angular” src=”https://img.shields.io/badge/Angular-61DAFB?logo=react&logoColor=white&style=flat" />
+
+<img alt=”HTML” src=”https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat" />
+
+<img alt=”CSS” src=”https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat" />
+
+<img alt=”Bootstrap” src=”https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+
+<img alt=”C#” src=”https://img.shields.io/badge/C#-CC342D?logo=ruby&logoColor=white&style=flat" />
+
+<img alt=”SQLite” src=”https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat" />
+
+<img alt=”PostgreSQL” src=”https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+
+<img alt=”MySQL” src=”https://img.shields.io/badge/MySQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
+
+</p>
