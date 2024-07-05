@@ -19,6 +19,8 @@ Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular,
 - **Code Quality:** Writing clean, maintainable, and well-documented code.
 - **Continuous Learning:** Staying updated with the latest trends and best practices in web development.
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KonstantinLarionov)  
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 <p>
 
 <img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
