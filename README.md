@@ -23,7 +23,7 @@ Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular,
 ## Skills and Experience:
 
 <p>
-<img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat">
 
 <img alt=”Angular” src=”https://img.shields.io/badge/Angular-61DAFB?logo=react&logoColor=white&style=flat">
 
