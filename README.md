@@ -1,5 +1,5 @@
 Hi there! 👋 I am Kostya.
-# 🌐 Full-Stack Developer | C#, Angular, Vue.js
+# 🌐 Full-Stack Developer | C#, NestJS, Angular, Vue.js
 
 Hello! 👋 I'm a passionate full-stack developer with expertise in C#, Angular, and Vue.js. With a solid foundation in back-end development using C# and .NET, I enjoy creating robust, scalable, and efficient server-side applications. On the front end, I leverage Angular and Vue.js to build responsive, user-friendly, and dynamic web interfaces.
 
